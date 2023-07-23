@@ -1,0 +1,10 @@
+.value_options {
+  display: flex;
+  flex-direction: column;
+}
+
+.feedback_value {
+  font-size: 20px;
+  font-weight: 500;
+  margin-bottom: 5px;
+}
